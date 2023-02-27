@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm e00049</h1>
-<h3 align="center">A passionate DevOps Engineer from Bangalore, India</h3>
+### Hi there 👋, My name is silambarasan
 
-- 💬 Ask me about **Linux, AWS, Terraform and Kubernetes**
+<h3 align="center"> I have been working as a DevOps Engineer since 2021 at Z in Bangalore, India. </h3>
+
+- Skills: **Linux, Ansible, AWS, Terraform and Kubernetes**
 
 - 📫 How to reach me **e00049.02aug2021@gmail.com**
 
-- 💬 Here, I am create docs because documentation is more Important
+- 💬 Documentation is more Important than work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
