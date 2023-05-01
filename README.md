@@ -4,8 +4,6 @@
 
 - Skills: **Linux, Ansible, AWS, Terraform and Kubernetes**
 
-- 📫 How to reach me **e00049.02aug2021@gmail.com**
-
 - 💬 Documentation is more Important than work
 
 <h3 align="left">Connect with me:</h3>
