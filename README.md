@@ -2,7 +2,7 @@
 
 <h3 align="center"> I have been working as a DevOps Engineer since 2021 at Z in Bangalore, India. </h3>
 
-- Skills: **Linux, Ansible, AWS, Terraform and Kubernetes**
+- Skills: **Linux, Ansible, GCP, Terraform and Kubernetes**
 
 - 💬 Documentation is more Important than work
 
