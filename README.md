@@ -2,12 +2,12 @@
 
 <h3 align="center"> I have been working as a DevOps Engineer since 2021 with certification in RHCE7, Terraform </h3>
 
-- Skills: **Linux, Ansible, GCP, Terraform and Kubernetes**
+<h4 align="center"> - Skills: **Linux, Ansible, GCP, Terraform and Kubernetes** </h4>
 
-- 💬 Documentation is more Important
+<h4 align="center"> - 💬 Documentation is more Important </h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
