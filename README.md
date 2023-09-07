@@ -2,7 +2,7 @@
 
 <h3 align="center"> I have been working as a DevOps Engineer since 2021 with certification in RHCE7, Terraform </h3>
 
-<h4 align="center"> - Skills: **Linux, Ansible, GCP, Terraform and Kubernetes** </h4>
+<h4 align="center"> - Skills: Linux, Ansible, GCP, Terraform, Kubernetes and Django </h4>
 
 <h4 align="center"> - 💬 Documentation is more Important </h4>
 
