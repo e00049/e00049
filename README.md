@@ -1,6 +1,6 @@
 <h1 align="center">  Hey, there 👋, I am silambarasan Rajendran </h1>
 
-<h3 align="center"> I have been working as a DevOps Engineer since 2021 with certifications in RHCE7, Terraform and Kubernetes </h3>
+<h3 align="center"> Working as a DevOps Engineer since 2021 with certifications in RHCE7, Terraform and Kubernetes </h3>
 
 <h4 align="center"> - Skills: Linux, Ansible, GCP, Terraform, Kubernetes and Django </h4>
 
